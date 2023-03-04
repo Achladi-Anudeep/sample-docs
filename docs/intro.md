@@ -5,17 +5,17 @@ slug: /
 
 # Overview
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+## Bridging Real world identities to web3 accounts
 
-<!-- Let's discover **Docusaurus in less than 5 minutes**. -->
+The blockchain technology at its core is a **decentralised** and **permissionless** way for the people to store/update data. This kind of technology ideally should have long been integrated into the public sector and should have transformed it for the greater good.
 
-## Lorem Ipsum
+Imagine a Scenario where meaningful data from actual Residents of state/Country can be collected with verification regarding public goods such as Revenue spending,healthcare and even Journalism.
 
-into electronic typesetting **Lorem Ipsum**.
-![](../static/img/diagramone.svg)
+<!-- into electronic typesetting **Lorem Ipsum**. -->
+<!-- ![](../static/img/diagramone.svg) -->
 
-## Second Section
+But unfortunately any meaningful use case of blockchain is thwarted by the fact that there is no way to ensure the human-identity of a blockchain account. As of 2023 all public blockchains such as Ethereum,Binance,Polygon etc are under heavy scrutiny and any public use is impossible as there are more bots than active users on these chains
 
-inter took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+The Solution? Finding a way to Map Real-World state issued identification with web3 accounts while still preserving end-user anonymity.
 
-![](../static/img/diagramtwo.svg)
+<!-- ![](../static/img/diagramtwo.svg) -->

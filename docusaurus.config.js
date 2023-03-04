@@ -6,7 +6,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "My Docs Site",
+  title: "Identity Protocol Docs",
   tagline: "This is a sample docs site",
   favicon: "img/favicon.ico",
 
@@ -66,7 +66,7 @@ const config = {
       // Replace with your project's social card
       image: "img/docusaurus-social-card.jpg",
       navbar: {
-        title: "My Docs Site",
+        title: "Identity Protocol Docs",
         logo: {
           alt: "My Site Logo",
           src: "img/logo.svg",
