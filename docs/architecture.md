@@ -3,9 +3,11 @@ sidebar_position: 2
 slug: /architecture
 ---
 
+import Diagramone from "../static/img/diagramone.svg";
+
 # Architecture
 
-![](../static/img/diagramone.svg)
+<Diagramone className="diagram"/>
 
 ### Protocol is based on 3 main entities.
 
